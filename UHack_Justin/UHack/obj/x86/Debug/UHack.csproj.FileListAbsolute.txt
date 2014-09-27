@@ -25,3 +25,6 @@ C:\Users\Justin Iverson\Documents\UHack\UHack\UHack\obj\x86\Debug\UHack.pdb
 C:\Users\Justin Iverson\Documents\GitHub\stance\UHack_Justin\UHack\bin\Debug\UHack.exe.config
 C:\Users\Justin Iverson\Documents\GitHub\stance\UHack_Justin\UHack\obj\x86\Debug\UHack.exe
 C:\Users\Justin Iverson\Documents\GitHub\stance\UHack_Justin\UHack\obj\x86\Debug\UHack.pdb
+C:\Users\Tim\Documents\GitHub\stance\UHack_Justin\UHack\bin\Debug\UHack.exe.config
+C:\Users\Tim\Documents\GitHub\stance\UHack_Justin\UHack\obj\x86\Debug\UHack.exe
+C:\Users\Tim\Documents\GitHub\stance\UHack_Justin\UHack\obj\x86\Debug\UHack.pdb
