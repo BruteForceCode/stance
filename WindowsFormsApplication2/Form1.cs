@@ -17,39 +17,47 @@ namespace WindowsFormsApplication2
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Jordan();
-        }
-
-        public void Jordan()
-        {
-            MessageBox.Show("here");
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             Header.Text = "My Statistics";
             total.Text = "Total";
 
+
+            //this is where the queries will fill in the data tables
+            totalDaily.Text = "100";
+            totalWeekly.Text = "200";
+            totalLifetime.Text = "300";
+
+            envDaily.Text = "45";
+            emoDaily.Text = "25";
+            physDaily.Text = "75";
+            socDaily.Text = "300";
+
+            envWeekly.Text = "45";
+            emoWeekly.Text = "25";
+            physWeekly.Text = "75";
+            socWeekly.Text = "300";
+
             
+            envLifetime.Text = "45"; 
+            emoLifetime.Text = "25";
+            physLifetime.Text = "75";
+            socLifetime.Text = "300";
+            
+            //this is the pie chart with all of the daily data in it
+            pieChart.Series["Series1"].Points.AddY(Convert.ToDouble(envDaily.Text));
+            MessageBox.Show(pieChart.Series["Series1"].Points[0].MarkerColor.ToString());
 
-            awDaily.Text = "12";
-            eDaily.Text = "1";
-            perDaily.Text = "14";
-            physDaily.Text = "3";
+            pieChart.Series["Series1"].Points.AddY(Convert.ToDouble(emoDaily.Text));
+            pieChart.Series["Series1"].Points[1].MarkerColor = Color.Red;
 
-            int test = 12;
-            int test2 = 14;
+            pieChart.Series["Series1"].Points.AddY(Convert.ToDouble(physDaily.Text));
+            pieChart.Series["Series1"].Points[2].MarkerColor = Color.BlueViolet;
 
-            pieChart.Series["int"] = test;
-            pieChart.Series[int] = test2;
+            pieChart.Series["Series1"].Points.AddY(Convert.ToDouble(socDaily.Text));
+            pieChart.Series["Series1"].Points[3].MarkerColor = Color.Cyan;
 
-            /*pieChart.DataSource = awDaily;
-            pieChart.DataSource = eDaily;
-            pieChart.DataSource = perDaily;
-            pieChart.DataSource = perDaily;
-            pieChart.DataSource = physDaily;*/
+
 
         }
 
@@ -71,5 +79,9 @@ namespace WindowsFormsApplication2
             //physDaily = 0;
         }
 
+        private void pieChart_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
