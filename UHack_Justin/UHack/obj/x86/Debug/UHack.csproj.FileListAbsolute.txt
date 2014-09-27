@@ -25,3 +25,17 @@ C:\Users\Justin Iverson\Documents\UHack\UHack\UHack\obj\x86\Debug\UHack.pdb
 C:\Users\Justin Iverson\Documents\GitHub\stance\UHack_Justin\UHack\bin\Debug\UHack.exe.config
 C:\Users\Justin Iverson\Documents\GitHub\stance\UHack_Justin\UHack\obj\x86\Debug\UHack.exe
 C:\Users\Justin Iverson\Documents\GitHub\stance\UHack_Justin\UHack\obj\x86\Debug\UHack.pdb
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\bin\Debug\UHack.exe.config
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\obj\x86\Debug\UHack.exe
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\obj\x86\Debug\UHack.pdb
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\bin\Debug\Stance.sdf
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\bin\Debug\Database1.mdf
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\bin\Debug\Database1_log.ldf
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\bin\Debug\UHack.exe
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\bin\Debug\UHack.pdb
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\obj\x86\Debug\UHack.csprojResolveAssemblyReference.cache
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\obj\x86\Debug\WindowsFormsApplication1.entryForm.resources
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\obj\x86\Debug\UHack.csproj.GenerateResource.Cache
+C:\Users\Justin Iverson\Documents\UHack\UHack_Justin\UHack\obj\x86\Debug\WindowsFormsApplication1.NewUser.resources
