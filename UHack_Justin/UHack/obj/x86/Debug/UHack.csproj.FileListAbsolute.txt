@@ -22,3 +22,6 @@ C:\Users\Tim\Documents\Visual Studio 2010\Projects\UHack\UHack\bin\Debug\Databas
 C:\Users\Justin Iverson\Documents\UHack\UHack\UHack\bin\Debug\UHack.exe.config
 C:\Users\Justin Iverson\Documents\UHack\UHack\UHack\obj\x86\Debug\UHack.exe
 C:\Users\Justin Iverson\Documents\UHack\UHack\UHack\obj\x86\Debug\UHack.pdb
+C:\Users\Justin Iverson\Documents\GitHub\stance\UHack_Justin\UHack\bin\Debug\UHack.exe.config
+C:\Users\Justin Iverson\Documents\GitHub\stance\UHack_Justin\UHack\obj\x86\Debug\UHack.exe
+C:\Users\Justin Iverson\Documents\GitHub\stance\UHack_Justin\UHack\obj\x86\Debug\UHack.pdb
